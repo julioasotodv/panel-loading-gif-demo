@@ -1,6 +1,6 @@
 # Panel loading gif demo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/julioasotodv/datashader-demo-1/master?urlpath=/proxy/5006/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/julioasotodv/panel-loading-gif-demo/master?urlpath=/proxy/5006/main)
 
 A simple Panel demo on loading gif while chart updates.
 
