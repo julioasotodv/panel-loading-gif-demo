@@ -1,0 +1,21 @@
+channels:
+  - pyviz
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - pandas
+  - fastparquet
+  - dask
+  - distributed
+  - tornado==5.1.1
+  - bokeh==1.4.0
+  - holoviews 
+  - hvplot 
+  - geoviews 
+  - datashader 
+  - colorcet 
+  - panel
+  - pip
+  - pip:
+    - jupyter-server-proxy
